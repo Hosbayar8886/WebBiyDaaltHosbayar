@@ -1,0 +1,27 @@
+body{
+background-image: url(doctors.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: 100% 100%;
+}
+.medlogo h1{
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+padding: 5px 10px;
+}
+.board{
+padding: 370px;
+background-color:  rgba(255, 255, 255, 0.85);
+border-radius: 12px; 
+}
+.board h1{
+    text-align: center;
+    margin-top: -350px;
+}
+.board p{
+    text-align: center;
+    font-size: large;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
